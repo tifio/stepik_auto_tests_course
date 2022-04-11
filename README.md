@@ -1,2 +1,6 @@
 # stepik_auto_tests_course
-Test
+
+Technologies used:
+Python,  
+Selenium,  
+Chrome driver for Selenium
